@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "description": "",
+  "version": "1.0.0",
+  "main": "main.js",
+  "engines": {
+    "node": ">=4.2.0"
+  },
+  "dependencies": {
+      "mraa" : "^1.0.0",
+      "jsupm_pn532" : "*",
+      "bleacon":"^0.4.0",
+      "express":"*",
+      "mqtt":"^1.11.0"
+  }
+}

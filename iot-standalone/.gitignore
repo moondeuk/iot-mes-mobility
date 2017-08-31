@@ -1,0 +1,5 @@
+node_modules/
+*.xdk
+*.xdke
+xdk/project-info.json
+xdk-publish-meta-data.json

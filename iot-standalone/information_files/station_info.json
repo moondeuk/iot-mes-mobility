@@ -1,0 +1,88 @@
+{
+ "station_data": [
+    {
+        "uuid":"ed69410ae82c47eb9961036649fabb07",
+       "part_name":"Roof Rail Airbag RH", 
+		"familyaddress":"A19M", 
+        "barcode_spec" : {
+            "type" : "15862",
+            "length" : "58",
+            "contents" : [{"name":"part_code", "start_position":"25", "end_position":"29"}, {"name":"trace_data", "start_position":"42", "end_position":"58"}]
+        },
+        "station_name":"Roof Rail Airbag RH",
+        "client_id":"client01",
+        "station_type":"trace-station",
+        "trace_id":"trace04"
+    },
+    {
+        "uuid":"df6267f72c2248aa857d3eac6036ae1e",
+        "part_name":"Engine", 
+		"familyaddress":"F08A", 
+        "barcode_spec" : {
+            "type" : "15862",
+            "length" : "58",
+            "contents" : [{"name":"part_code", "start_position":"50", "end_position":"53"}, {"name":"trace_data", "start_position":"42", "end_position":"58"}]
+        },
+        "station_name":"Engine",
+        "client_id":"client01",
+        "station_type":"trace-station",
+        "trace_id":"trace02"
+    },
+	{
+        "uuid":"1049555b7e4545b18a95908d61cfe918",
+        "part_name":"Roof Rail Airbag LH", 
+		"familyaddress":"A19N", 
+        "barcode_spec" : {
+            "type" : "15862",
+            "length" : "58",
+            "contents" : [{"name":"part_code", "start_position":"25", "end_position":"29"}, {"name":"trace_data", "start_position":"42", "end_position":"58"}]
+        },
+        "station_name":"Roof Rail Airbag LH",
+        "client_id":"client01",
+        "station_type":"trace-station",
+        "trace_id":"trace03"
+    },
+	{
+        "uuid":"f03362736c48457b991fd810d111c7d4",
+        "part_name":"Roof Rail Airbag RH", 
+		"familyaddress":"A19M", 
+        "barcode_spec" : {
+            "type" : "15862",
+            "length" : "58",
+            "contents" : [{"name":"part_code", "start_position":"25", "end_position":"29"}, {"name":"trace_data", "start_position":"42", "end_position":"58"}]
+        },
+        "station_name":"Roof Rail Airbag RH",
+        "client_id":"client01",
+        "station_type":"trace-station",
+        "trace_id":"trace04"
+    
+	{
+        "uuid":"94d5597235184ed5ba6e655f43514334",
+        "part_name":"SDM", 
+		"familyaddress":"A200", 
+        "barcode_spec" : {
+            "type" : "15862",
+            "length" : "58",
+            "contents" : [{"name":"part_code", "start_position":"25", "end_position":"29"}, {"name":"trace_data", "start_position":"42", "end_position":"58"}]
+        },
+        "station_name":"SDM",
+        "client_id":"client01",
+        "station_type":"trace-station",
+        "trace_id":"trace05"
+    },
+	{
+        "uuid":"824007541ec1405eb2cc34bdcc673075",
+        "station_name":"Defect Check",
+        "client_id":"client01",
+        "station_type":"defect-station",
+        "trace_id":"trace06"
+    },
+	{
+        "uuid":"0a9aa2b88afb4539a4432dbd461f97ea",
+        "station_name":"Defect Check",
+        "client_id":"client01",
+        "station_type":"inspector-station",
+        "trace_id":"trace07"
+    }
+ ]
+}
